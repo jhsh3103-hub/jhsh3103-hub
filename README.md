@@ -1,4 +1,4 @@
-## Hi there 👋
+## Suhyeok Jang, Department of Smart City Engineering, Gachon University, 202634130👋
 
 <!--
 **jhsh3103-hub/jhsh3103-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
